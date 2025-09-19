@@ -49,4 +49,12 @@ Created **custom measures** for in-depth cricket analysis:
 ---
 
 ## 📸 Dashboard Preview  
-👉 *(Insert screenshots of your Power BI dashboard here)*  
+<p>
+ <img src="https://raw.githubusercontent.com/vinothduraimanickam/IPL-2025-Players-Performance-Analysis/refs/heads/main/IPL2025%20Players%20Analysis%20-%2000%20Best%20Team.jpg" alt="Data Analytics GIF" style="width:100%; max-width:100%;"/>
+ <img src="https://raw.githubusercontent.com/vinothduraimanickam/IPL-2025-Players-Performance-Analysis/refs/heads/main/IPL2025%20Players%20Analysis%20-%2001%20Opening%20Batsmen.jpg" alt="Data Analytics GIF" style="width:100%; max-width:100%;"/>
+ <img src="https://raw.githubusercontent.com/vinothduraimanickam/IPL-2025-Players-Performance-Analysis/refs/heads/main/IPL2025%20Players%20Analysis%20-%2002%20Middle%20Order.jpg" alt="Data Analytics GIF" style="width:100%; max-width:100%;"/>
+ <img src="https://raw.githubusercontent.com/vinothduraimanickam/IPL-2025-Players-Performance-Analysis/refs/heads/main/IPL2025%20Players%20Analysis%20-%2003%20Lower%20Order.jpg" alt="Data Analytics GIF" style="width:100%; max-width:100%;"/>
+ <img src="https://raw.githubusercontent.com/vinothduraimanickam/IPL-2025-Players-Performance-Analysis/refs/heads/main/IPL2025%20Players%20Analysis%20-%2004%20All-rounders.jpg" alt="Data Analytics GIF" style="width:100%; max-width:100%;"/>
+ <img src="https://raw.githubusercontent.com/vinothduraimanickam/IPL-2025-Players-Performance-Analysis/refs/heads/main/IPL2025%20Players%20Analysis%20-%2005%20Bowlers.jpg" alt="Data Analytics GIF" style="width:100%; max-width:100%;"/>
+ <img src="https://raw.githubusercontent.com/vinothduraimanickam/IPL-2025-Players-Performance-Analysis/refs/heads/main/IPL2025%20Players%20Analysis%20-%2006%20Tooltips.png" alt="Data Analytics GIF" style="width:100%; max-width:100%;"/>
+</p>
