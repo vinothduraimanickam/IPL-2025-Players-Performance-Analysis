@@ -1,4 +1,4 @@
-# 🏏 IPL 2025 Players Performance Analysis – Power BI Dashboard  
+# 🏏 IPL 2025 Players Performance Analysis
 
 ## 📖 Project Overview  
 
